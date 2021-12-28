@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gus1919/OetersReactPortfolio4/static/css/main.75bcdba0.css",
+    "main.js": "/gus1919/OetersReactPortfolio4/static/js/main.8bdb451d.js",
+    "static/media/ProfilePicHeader.jpg": "/gus1919/OetersReactPortfolio4/static/media/ProfilePicHeader.3293347aafdccdab241e.jpg",
+    "static/media/OetersResume2021.pdf": "/gus1919/OetersReactPortfolio4/static/media/OetersResume2021.86675f4c977aea22e46d.pdf",
+    "index.html": "/gus1919/OetersReactPortfolio4/index.html",
+    "static/media/programming-skills.svg": "/gus1919/OetersReactPortfolio4/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "static/media/projects.svg": "/gus1919/OetersReactPortfolio4/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/gus1919/OetersReactPortfolio4/static/media/interests.809890a3e4fb0938f61b.svg",
+    "static/media/education.svg": "/gus1919/OetersReactPortfolio4/static/media/education.10cfa28a40119ebd70cf.svg",
+    "static/media/work-history.svg": "/gus1919/OetersReactPortfolio4/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.75bcdba0.css.map": "/gus1919/OetersReactPortfolio4/static/css/main.75bcdba0.css.map",
+    "main.8bdb451d.js.map": "/gus1919/OetersReactPortfolio4/static/js/main.8bdb451d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75bcdba0.css",
+    "static/js/main.8bdb451d.js"
+  ]
+}
