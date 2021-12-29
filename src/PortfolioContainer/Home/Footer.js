@@ -15,7 +15,7 @@ const Footer = () => {
             <i className="fa fa-github-square"></i>
           </span>
         </a>
-        <a href="/Contact">
+        <a href="/contact">
           <button className="btn btn-danger" type="button">
             Hire Me
           </button>
