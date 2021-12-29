@@ -16,7 +16,7 @@ const Footer = () => {
             <i className="fa fa-github-square"></i>
           </span>
         </a>
-        <NavLink className="nav-link" to="/contact" activeClassName="active">
+        <NavLink className="hireMe" to="/contact" activeClassName="active">
           <button className="btn btn-danger" type="button">
             Hire Me
           </button>
