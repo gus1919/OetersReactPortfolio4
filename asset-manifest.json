@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OetersReactPortfolio4/static/css/main.d765592f.css",
-    "main.js": "/OetersReactPortfolio4/static/js/main.d1f38d57.js",
+    "main.js": "/OetersReactPortfolio4/static/js/main.0c8a6ce8.js",
     "static/media/foodTruck.png": "/OetersReactPortfolio4/static/media/foodTruck.28de64d75db36ae2906a.png",
     "static/media/ProfilePicHeader.jpg": "/OetersReactPortfolio4/static/media/ProfilePicHeader.3293347aafdccdab241e.jpg",
     "static/media/Portfolio3a.png": "/OetersReactPortfolio4/static/media/Portfolio3a.e17cf3b9b261ead07f1d.png",
@@ -17,10 +17,10 @@
     "static/media/education.svg": "/OetersReactPortfolio4/static/media/education.10cfa28a40119ebd70cf.svg",
     "static/media/work-history.svg": "/OetersReactPortfolio4/static/media/work-history.a566475dedb99dea4bb8.svg",
     "main.d765592f.css.map": "/OetersReactPortfolio4/static/css/main.d765592f.css.map",
-    "main.d1f38d57.js.map": "/OetersReactPortfolio4/static/js/main.d1f38d57.js.map"
+    "main.0c8a6ce8.js.map": "/OetersReactPortfolio4/static/js/main.0c8a6ce8.js.map"
   },
   "entrypoints": [
     "static/css/main.d765592f.css",
-    "static/js/main.d1f38d57.js"
+    "static/js/main.0c8a6ce8.js"
   ]
 }
