@@ -1,4 +1,6 @@
 // github and linked in links/icons
+import resume from "../../OetersResume2021.pdf";
+
 const Footer = () => {
   return (
     <div className="footer">
@@ -18,7 +20,8 @@ const Footer = () => {
             Hire Me
           </button>
         </a>
-        <a href="OetersResume2021.pdf" download="OetersResume2021.pdf">
+
+        <a href={resume} download={resume}>
           <button className="btn btn-primary" type="button">
             Get Resume
           </button>
