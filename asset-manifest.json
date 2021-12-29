@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fb6befb3.css",
-    "main.js": "/static/js/main.2d65eb48.js",
+    "main.js": "/static/js/main.a95f289e.js",
     "static/media/foodTruck.png": "/static/media/foodTruck.28de64d75db36ae2906a.png",
     "static/media/ProfilePicHeader.jpg": "/static/media/ProfilePicHeader.3293347aafdccdab241e.jpg",
     "static/media/Portfolio3a.png": "/static/media/Portfolio3a.e17cf3b9b261ead07f1d.png",
@@ -17,10 +17,10 @@
     "static/media/education.svg": "/static/media/education.10cfa28a40119ebd70cf.svg",
     "static/media/work-history.svg": "/static/media/work-history.a566475dedb99dea4bb8.svg",
     "main.fb6befb3.css.map": "/static/css/main.fb6befb3.css.map",
-    "main.2d65eb48.js.map": "/static/js/main.2d65eb48.js.map"
+    "main.a95f289e.js.map": "/static/js/main.a95f289e.js.map"
   },
   "entrypoints": [
     "static/css/main.fb6befb3.css",
-    "static/js/main.2d65eb48.js"
+    "static/js/main.a95f289e.js"
   ]
 }
