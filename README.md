@@ -32,7 +32,13 @@ This is an updated portfolio designed using React.
 
 > Here is a link to the github repository: https://github.com/gus1919/OetersReactPortfolio4
 
+![PortfolioAboutMe](https://user-images.githubusercontent.com/86876335/147851029-d1640701-b84a-4792-ba43-30d29a56a507.png)
+![PortfolioProjects](https://user-images.githubusercontent.com/86876335/147851032-12cda27b-eea5-42ae-93f3-f0ff17f1600d.png)
+![PortfolioResume](https://user-images.githubusercontent.com/86876335/147851041-bceb0c9a-5556-43e0-a932-cdd3a6ba6e7e.png)
+![PortfolioContact](https://user-images.githubusercontent.com/86876335/147851044-130cd751-363d-410e-95d4-241f92d3eb8c.png)
+
 ---
+
 
 ## Contributors
 
