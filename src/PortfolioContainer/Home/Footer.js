@@ -1,4 +1,7 @@
 // github and linked in links/icons
+import resume from "../../OetersResume2021.pdf";
+import { NavLink } from "react-router-dom";
+
 const Footer = () => {
   return (
     <div className="footer">
@@ -13,12 +16,13 @@ const Footer = () => {
             <i className="fa fa-github-square"></i>
           </span>
         </a>
-        <a href="/Contact">
+        <NavLink className="hireMe" to="/contact" activeClassName="active">
           <button className="btn btn-danger" type="button">
             Hire Me
           </button>
-        </a>
-        <a href="OetersResume2021.pdf" download="OetersResume2021.pdf">
+        </NavLink>
+
+        <a href={resume} download={resume}>
           <button className="btn btn-primary" type="button">
             Get Resume
           </button>

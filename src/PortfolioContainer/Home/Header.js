@@ -29,7 +29,11 @@ const Header = () => {
 
       <ul className="nav nav-tabs">
         <li className="nav-item">
-          <NavLink className="nav-link" exact activeClassName="active" to="/">
+          <NavLink
+            className="nav-link"
+            activeClassName="active"
+            to="/OetersReactPortfolio4/"
+          >
             About Me
           </NavLink>
         </li>

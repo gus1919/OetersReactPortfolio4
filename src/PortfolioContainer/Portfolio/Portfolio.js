@@ -3,6 +3,12 @@ import OwlCarousel from "react-owl-carousel";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
 import "./portfolio.css";
+import budget from "../../img/BudgetTracker.png";
+import food from "../../img/foodTruck.png";
+import password from "../../img/PasswordGenerator.png";
+import portfolio3a from "../../img/Portfolio3a.png";
+import project1 from "../../img/Project1.jpg";
+import workout from "../../img/WorkoutTracker1.png";
 
 const Portfolio = (props) => {
   const options = {
@@ -42,10 +48,7 @@ const Portfolio = (props) => {
                 <div className="port-item">
                   <div className="port-comment">
                     <div className="port-info">
-                      <img
-                        src="images/BudgetTracker.png"
-                        alt="Budget Tracker"
-                      />
+                      <img src={budget} alt="Budget Tracker" />
                     </div>
                     <h4 className="port-title">Budget Tracker</h4>
                     <p className="port-subtitle">
@@ -81,7 +84,7 @@ const Portfolio = (props) => {
                 <div className="port-item">
                   <div className="port-comment">
                     <div className="port-info">
-                      <img src="images/foodTruck.png" alt="Food Truck App" />
+                      <img src={food} alt="Food Truck App" />
                     </div>
                     <h4 className="port-title">Food Truck App</h4>
                     <p className="port-subtitle">
@@ -116,10 +119,7 @@ const Portfolio = (props) => {
                 <div className="port-item">
                   <div className="port-comment">
                     <div className="port-info">
-                      <img
-                        src="images/PasswordGenerator.png"
-                        alt="Password Generator"
-                      />
+                      <img src={password} alt="Password Generator" />
                     </div>
                     <h4 className="port-title">Password Generator</h4>
                     <p className="port-subtitle">
@@ -154,10 +154,7 @@ const Portfolio = (props) => {
                 <div className="port-item">
                   <div className="port-comment">
                     <div className="port-info">
-                      <img
-                        src="images/Portfolio3a.png"
-                        alt="Alternate Portfolio"
-                      />
+                      <img src={portfolio3a} alt="Alternate Portfolio" />
                     </div>
                     <h4 className="port-title">Alternate Portfolio</h4>
                     <p className="port-subtitle">
@@ -191,10 +188,7 @@ const Portfolio = (props) => {
                 <div className="port-item">
                   <div className="port-comment">
                     <div className="port-info">
-                      <img
-                        src="images/Project1.jpg"
-                        alt="Health and Wellness App"
-                      />
+                      <img src={project1} alt="Health and Wellness App" />
                     </div>
                     <h4 className="port-title">Health and Wellness App</h4>
                     <p className="port-subtitle">
@@ -228,10 +222,7 @@ const Portfolio = (props) => {
                 <div className="port-item">
                   <div className="port-comment">
                     <div className="port-info">
-                      <img
-                        src="images/WorkoutTracker1.png"
-                        alt="Workout Tracker"
-                      />
+                      <img src={workout} alt="Workout Tracker" />
                     </div>
                     <h4 className="port-title">Workout Tracker</h4>
                     <p className="port-subtitle">
