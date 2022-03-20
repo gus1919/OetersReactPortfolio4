@@ -3,12 +3,14 @@ import OwlCarousel from "react-owl-carousel";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
 import "./portfolio.css";
-import budget from "../../img/BudgetTracker.png";
-import food from "../../img/foodTruck.png";
-import password from "../../img/PasswordGenerator.png";
-import portfolio3a from "../../img/Portfolio3a.png";
-import project1 from "../../img/Project1.jpg";
-import workout from "../../img/WorkoutTracker1.png";
+import budget from "../../img/budgetTracker.gif";
+import food from "../../img/foodTruck.gif";
+import password from "../../img/passwordGenerator.gif";
+import portfolio3a from "../../img/altportfolio.gif";
+import project1 from "../../img/healthApp.gif";
+import workout from "../../img/workoutTracker.gif";
+import weatherGif from "../../img/WeatherGif.gif";
+import powerup from "../../img/powerup.gif";
 
 const Portfolio = (props) => {
   const options = {
@@ -44,6 +46,7 @@ const Portfolio = (props) => {
               id="portfolio-carousel"
               {...options}
             >
+              {/* Budget Tracker */}
               <div className="col-lg-12">
                 <div className="port-item">
                   <div className="port-comment">
@@ -56,9 +59,8 @@ const Portfolio = (props) => {
                     </p>
                     <p className="port-desc">
                       The user can add expenses or deposits to their budget with
-                      or without a connection. When entering transactions
-                      offline, they should populate the totals when brought back
-                      online.
+                      or without an internet connection. Offline transactions
+                      will update when the user is back online.
                     </p>
                     <a
                       className="port-links"
@@ -80,6 +82,7 @@ const Portfolio = (props) => {
                 </div>
               </div>
 
+              {/* Food Truck App */}
               <div className="col-lg-12">
                 <div className="port-item">
                   <div className="port-comment">
@@ -115,6 +118,43 @@ const Portfolio = (props) => {
                 </div>
               </div>
 
+              {/* Weather Dashboard App */}
+              <div className="col-lg-12">
+                <div className="port-item">
+                  <div className="port-comment">
+                    <div className="port-info">
+                      <img src={weatherGif} alt="Weather Dashboard" />
+                    </div>
+                    <h4 className="port-title">Weather Dashboard App</h4>
+                    <p className="port-subtitle">
+                      Tech Used: NextJS, Javascript, Vercel{" "}
+                    </p>
+                    <p className="port-desc">
+                      Using this app, a person can search for a city and find
+                      the current and future weather conditions. Four cities in
+                      Ohio have been pre-set.
+                    </p>
+                    <a
+                      className="port-links"
+                      href="https://next-weather-app-one.vercel.app/"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      Deployed App
+                    </a>
+                    <a
+                      className="port-links"
+                      href="https://github.com/gus1919/nextWeatherApp"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      Github Repository
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              {/* Password Generator */}
               <div className="col-lg-12">
                 <div className="port-item">
                   <div className="port-comment">
@@ -150,6 +190,7 @@ const Portfolio = (props) => {
                 </div>
               </div>
 
+              {/* Alternate Porfolio */}
               <div className="col-lg-12">
                 <div className="port-item">
                   <div className="port-comment">
@@ -162,7 +203,8 @@ const Portfolio = (props) => {
                     </p>
                     <p className="port-desc">
                       This is an alternate portfolio designed using handlebars
-                      and TailwindCSS.
+                      and TailwindCSS. It was deployed with Heroku and was an
+                      earlier portfolio design.
                     </p>
                     <a
                       className="port-links"
@@ -184,6 +226,7 @@ const Portfolio = (props) => {
                 </div>
               </div>
 
+              {/* Health and Wellness App */}
               <div className="col-lg-12">
                 <div className="port-item">
                   <div className="port-comment">
@@ -196,7 +239,8 @@ const Portfolio = (props) => {
                     </p>
                     <p className="port-desc">
                       The user can select workout exercises as well as food
-                      items to add to a list for the week.
+                      items to add to a list for the week. Items and exercises
+                      are saved and can be deleted.
                     </p>
                     <a
                       className="port-links"
@@ -218,6 +262,43 @@ const Portfolio = (props) => {
                 </div>
               </div>
 
+              {/* Powerup App */}
+              <div className="col-lg-12">
+                <div className="port-item">
+                  <div className="port-comment">
+                    <div className="port-info">
+                      <img src={powerup} alt="Powerup App" />
+                    </div>
+                    <h4 className="port-title">Powerup App</h4>
+                    <p className="port-subtitle">
+                      Tech Used: Javascript, React, GraphQL, Heroku{" "}
+                    </p>
+                    <p className="port-desc">
+                      An app designed to allow a user to save their favorite
+                      video games to their account. Games may then be deleted at
+                      the user's discretion.
+                    </p>
+                    <a
+                      className="port-links"
+                      href="https://powerup-game-app.herokuapp.com/"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      Deployed App
+                    </a>
+                    <a
+                      className="port-links"
+                      href="https://github.com/Shawn52409/powerup"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      Github Repository
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              {/* Workout Tracker  */}
               <div className="col-lg-12">
                 <div className="port-item">
                   <div className="port-comment">
@@ -230,9 +311,8 @@ const Portfolio = (props) => {
                     </p>
                     <p className="port-desc">
                       This app allows a user to create a workout and add
-                      exercises to it to keep track of certain stats. The front
-                      end work was provided and the back end was set up using
-                      node express and mongodb atlas.
+                      exercises to it to keep track of certain stats. The stats
+                      are kept using MongoDB.
                     </p>
                     <a
                       className="port-links"
