@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/OetersReactPortfolio4/static/css/main.d765592f.css",
-    "main.js": "/OetersReactPortfolio4/static/js/main.176c25b2.js",
-    "static/media/foodTruck.png": "/OetersReactPortfolio4/static/media/foodTruck.28de64d75db36ae2906a.png",
+    "main.css": "/OetersReactPortfolio4/static/css/main.60495c01.css",
+    "main.js": "/OetersReactPortfolio4/static/js/main.7086e9ef.js",
+    "static/media/powerup.gif": "/OetersReactPortfolio4/static/media/powerup.7d8c8c138880a1e461a3.gif",
+    "static/media/healthApp.gif": "/OetersReactPortfolio4/static/media/healthApp.3e58f56fa5856c422ba0.gif",
+    "static/media/foodTruck.gif": "/OetersReactPortfolio4/static/media/foodTruck.4150048ba9e401317017.gif",
+    "static/media/altportfolio.gif": "/OetersReactPortfolio4/static/media/altportfolio.90a48f76c11e4777e171.gif",
+    "static/media/budgetTracker.gif": "/OetersReactPortfolio4/static/media/budgetTracker.bf44ea32dd5856acb5a7.gif",
     "static/media/ProfilePicHeader.jpg": "/OetersReactPortfolio4/static/media/ProfilePicHeader.3293347aafdccdab241e.jpg",
-    "static/media/Portfolio3a.png": "/OetersReactPortfolio4/static/media/Portfolio3a.e17cf3b9b261ead07f1d.png",
-    "static/media/OetersResume2021.pdf": "/OetersReactPortfolio4/static/media/OetersResume2021.86675f4c977aea22e46d.pdf",
-    "static/media/BudgetTracker.png": "/OetersReactPortfolio4/static/media/BudgetTracker.e63544212cef9e64c959.png",
-    "static/media/Project1.jpg": "/OetersReactPortfolio4/static/media/Project1.a0470f1ca1dc47ddaa28.jpg",
-    "static/media/PasswordGenerator.png": "/OetersReactPortfolio4/static/media/PasswordGenerator.429d3f9b6952098bcabf.png",
-    "static/media/WorkoutTracker1.png": "/OetersReactPortfolio4/static/media/WorkoutTracker1.caeed38425add1fcde9c.png",
+    "static/media/workoutTracker.gif": "/OetersReactPortfolio4/static/media/workoutTracker.41f0d5be8cb7fa729c2a.gif",
+    "static/media/WeatherGif.gif": "/OetersReactPortfolio4/static/media/WeatherGif.ca3996da1e71fe48ecd3.gif",
+    "static/media/passwordGenerator.gif": "/OetersReactPortfolio4/static/media/passwordGenerator.8032b31f66a5c711186c.gif",
+    "static/media/Oeters_Resume.pdf": "/OetersReactPortfolio4/static/media/Oeters_Resume.c67d075db9200e98c240.pdf",
     "index.html": "/OetersReactPortfolio4/index.html",
     "static/media/programming-skills.svg": "/OetersReactPortfolio4/static/media/programming-skills.d19983a9bee884277ffa.svg",
     "static/media/projects.svg": "/OetersReactPortfolio4/static/media/projects.2b352a52b0588dab62f5.svg",
     "static/media/interests.svg": "/OetersReactPortfolio4/static/media/interests.809890a3e4fb0938f61b.svg",
     "static/media/education.svg": "/OetersReactPortfolio4/static/media/education.10cfa28a40119ebd70cf.svg",
     "static/media/work-history.svg": "/OetersReactPortfolio4/static/media/work-history.a566475dedb99dea4bb8.svg",
-    "main.d765592f.css.map": "/OetersReactPortfolio4/static/css/main.d765592f.css.map",
-    "main.176c25b2.js.map": "/OetersReactPortfolio4/static/js/main.176c25b2.js.map"
+    "main.60495c01.css.map": "/OetersReactPortfolio4/static/css/main.60495c01.css.map",
+    "main.7086e9ef.js.map": "/OetersReactPortfolio4/static/js/main.7086e9ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.d765592f.css",
-    "static/js/main.176c25b2.js"
+    "static/css/main.60495c01.css",
+    "static/js/main.7086e9ef.js"
   ]
 }
