@@ -1,33 +1,26 @@
-.contact-page {
-  color: #328cc1;
-  font-family: "merienda";
-}
-
-label {
-  color: #d98310;
-  font-family: "Share Tech Mono";
+.container {
+  color: white;
+  align-items: center;
+  text-align: center;
 }
 
 .contact-title {
-  margin-top: 25px;
+  font-size: 75px;
+  color: #328cc1;
+  font-family: "merienda";
+  border-bottom: 3px solid white;
+  margin-bottom: 15px;
 }
 
-.contact-form {
-  margin: 25px 85px 75px 100px;
-  max-height: 350px;
-}
-
-.form-control {
-  margin: 10px 0px;
-}
-
-.contact-submit {
-  margin-top: 30px;
-  margin-left: 0px;
+.contact-address {
+  color: #d98310;
+  font-size: 24px;
   font-family: "Share Tech Mono";
+  border-bottom: 3px solid white;
+  margin-bottom: 15px;
+  padding: 10px;
 }
 
-form p {
-  text-align: center;
-  font-family: "Share Tech Mono";
+.icon {
+  color: #328cc1;
 }

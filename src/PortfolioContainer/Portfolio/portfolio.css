@@ -4,19 +4,22 @@
 
 .port-item {
   background-color: #0b3c5d;
-  padding: 20px;
+  padding: 5px;
   margin: 10px;
-  border-radius: 50px;
-  max-height: 450px;
+  border-radius: 10px;
+  height: 1000px;
   overflow: hidden;
+  max-height: 400px;
+}
+
+.port-info img {
+  border-radius: 10px;
+  height: 200px;
+  background-color: #0b3c5d;
 }
 
 .port-comment {
   background-color: #0b3c5d;
-}
-
-img {
-  border-radius: 30px;
 }
 
 .port-title {
@@ -42,8 +45,4 @@ img {
   margin: 0 30px 0 35px;
   text-decoration: none;
   color: #d98310;
-}
-
-img:hover {
-  transform: scale(1.8, 1.8);
 }
